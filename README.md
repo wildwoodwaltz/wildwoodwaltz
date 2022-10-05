@@ -21,6 +21,18 @@ This is something I am still exploring,  I am currently studying about computer 
     - Editor: PyCharm, Visual Studio Code
     - Languages: Python, JavaScript, HTML5, CSS3, SQL, Markdown.
     - Skills/Tools : React, Django, MongoDB, Node.js, Express.js, Git, Agile Methodologies
+
+---
+
+## What I am Looking for in a Company
+
+- Fosters Growth Mindset
+- Diversity and Inclusion
+- Utilization of Strong Problem Solving Skills
+- Team Based Environment
+- Clear Communication with an Emphasis on Candor
+
+
 <!--
 **wildwoodwaltz/wildwoodwaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
