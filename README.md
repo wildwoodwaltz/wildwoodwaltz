@@ -10,6 +10,17 @@ In December of 2021 I had finally had enough and put in my notice, signing up fo
 
 Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms and learning more about data science and machine learning. I am continuing to learn as much as I can about the industry in an effort to find my forever role at my dream company
 
+---
+
+## My Identity as a Full-Stack Developer
+
+This is something I am still exploring,  I am currently studying about computer vision and machine learning. I have toyed with data analytics and enjoy it throughly.
+
+  - Tech ＆ Tools
+    - OS: Linux(Ubuntu), Windows Shell Linux
+    - Editor: PyCharm, Visual Studio Code
+    - Languages: Python, JavaScript, HTML5, CSS3, SQL, Markdown.
+    - Skills/Tools : React, Django, MongoDB, Node.js, Express.js, Git, Agile Methodologies
 <!--
 **wildwoodwaltz/wildwoodwaltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
