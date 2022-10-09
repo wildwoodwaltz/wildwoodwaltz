@@ -4,7 +4,7 @@
 
 ## How I Became a Developer
 
-I came from a 10+ year career in the medical field finding that things were just so inefficient. Adaptattion to new technologies was very slow. I was also getting burned out due to dealing with patients and COVID-19.
+I came from a 10+ year career in the medical field finding that things were just so inefficient. Adaptation to new technologies was very slow. I was also getting burned out due to dealing with patients and COVID-19.
 
 In December of 2021 I had finally had enough and put in my notice, signing up for Code Fellows a 6 month long intensive bootcamp. Prior to this I had done web development in highschool for around 5 years during the era of CSS2.1. I loved doing web development and thought that I could turn this into an actual job. 
 
