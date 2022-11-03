@@ -8,7 +8,7 @@ I came from a 10+ year career in the medical field finding that things were just
 
 In December of 2021 I had finally had enough and put in my notice, signing up for Code Fellows a 6 month long intensive bootcamp. Prior to this I had done web development in highschool for around 5 years during the era of CSS2.1. I loved doing web development and thought that I could turn this into an actual job. 
 
-Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms and learning more about data science and machine learning. I am continuing to learn as much as I can about the industry in an effort to find my forever role at my dream company
+Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms,  and learning more about data science and machine learning. I am continuing to learn as much as I can about the industry in an effort to find my forever role at my dream company
 
 ---
 
@@ -20,7 +20,7 @@ This is something I am still exploring,  I am currently studying about computer 
     - OS: Linux(Ubuntu), Windows Shell Linux
     - Editor: PyCharm, Visual Studio Code
     - Languages: Python, JavaScript, HTML5, CSS3, SQL, Markdown.
-    - Skills/Tools : React, Django, MongoDB, Node.js, Express.js, Git, Agile Methodologies
+    - Skills/Tools : Auth0, Postgres, Django, RegEx, MongoDB, Express.js, React, Node, Bootstrap, Git, GitHub, Unit Testing, Playwright, PostgreSQL, MERN Stack, Heroku, Docker, Containers, Agile Methodologies, Data Analytics, Machine Learning.
 
 ---
 
