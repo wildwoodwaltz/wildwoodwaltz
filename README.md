@@ -1,26 +1,22 @@
-### Welcome to my GitHub! 
+### Welcome to my GitHub! Here you can follow my progress as a developer. 
 
 ---
 
 ## How I Became a Developer
 
-I came from a 10+ year career in the medical field finding that things were just so inefficient. Adaptation to new technologies was very slow. I was also getting burned out due to dealing with patients and COVID-19.
-
-In December of 2021 I had finally had enough and put in my notice, signing up for Code Fellows a 6 month long intensive bootcamp. Prior to this I had done web development in highschool for around 5 years during the era of CSS2.1. I loved doing web development and thought that I could turn this into an actual job. 
-
-Now, I am focusing on strengthening my problem-solving skills, practicing data structures and algorithms,  and learning more about data science and machine learning. I am continuing to learn as much as I can about the industry in an effort to find my forever role at my dream company
+I have over a decade of experience in the medical field, where I was a dedicated healthcare professional. However, the COVID-19 pandemic took a toll on me and I felt burnt out. That's when I made the transition into software development. It was my passion for problem-solving and desire to make a positive impact in the world has led me to pursue a career in technology. I am always open to new opportunities and excited to see what the future holds!
 
 ---
 
-## My Identity as a Full-Stack Developer
+## My Identity as a Developer
 
-This is something I am still exploring,  I am currently studying about computer vision and machine learning. I have toyed with data analytics and enjoy it throughly.
+I am a full-stack developer, but I much prefer SDET work, I have a love for building tests and driving development through those tests. Don't like to write documentation and tests, let me help! 
 
   - Tech ＆ Tools
     - OS: Linux(Ubuntu), Windows Shell Linux
     - Editor: PyCharm, Visual Studio Code
     - Languages: Python, JavaScript, HTML5, CSS3, SQL, Markdown.
-    - Skills/Tools : Auth0, Postgres, Django, RegEx, MongoDB, Express.js, React, Node, Bootstrap, Git, GitHub, Unit Testing, Playwright, PostgreSQL, MERN Stack, Heroku, Docker, Containers, Agile Methodologies, Data Analytics, Machine Learning.
+    - Skills/Tools : Auth0, Postgres, Django, RegEx, MongoDB, Express.js, React, Next.js, Node, Bootstrap, Git, GitHub, Unit Testing, Playwright, Selenium, PostgreSQL, MERN Stack, Heroku, Docker, Containers, Agile Methodologies, Data Analytics, Machine Learning.
 
 ---
 
